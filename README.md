@@ -1,5 +1,5 @@
 # deepl-fix-english
-Use DeepL translator to fix English texts (EN->DE->EN)
+Use DeepL translator to fix English texts (through EN->DE->EN pipeline)
 
 # Requirements
 - Some unix with shell (tested on Linux Mint)
