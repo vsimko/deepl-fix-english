@@ -27,6 +27,9 @@ Please translate the following text
 ```
 
 # Usage (larger texts)
+
+**NOTE:** not implemented properly yet, see [issue #1](https://github.com/vsimko/deepl-fix-english/issues/1)
+
 Multiline texts can be piped to the script through stdin as follows:
 ```sh
 $ ./deepl-fix-english.sh
